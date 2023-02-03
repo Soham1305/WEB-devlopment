@@ -1,8 +1,20 @@
 html{
-    font-size : 15px
+    font-size : 19px
 }
 
 body{
     background-color: #333;
     color:whitesmoke;
+}
+
+a{
+    color:aliceblue;
+}
+
+a:visited{
+    color:lightgray;
+}
+
+a:hower,a:avtive{
+    color :#eee;
 }
