@@ -9,3 +9,16 @@ body{
 
     color: whitesmoke;
 }
+a{
+    color:chartreuse;
+}
+
+a:visited{
+
+    color: bisque;
+}
+
+a:hover{
+
+    color:burlywood
+}
